@@ -1,0 +1,43 @@
+
+SNo	UserName	Match	       	  Date		    Stadium		Price		No. of		Amount		Stand
+				   						(in Rs)		tickets		Paid		(seating location)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1	SDF		KKR-vs-DC	08/05/2021	Wankhede Stadium	5000		5		25000		Vitthal-Divecha-Stand
+
+2	Nishtha		CSK-vs-MI	10/05/2021	Arun Jaitley		5200		12		10400		HILL-B-SOUTH-WEST
+
+3	Pinaki		KKR-vs-DC	08/05/2021	Wankhede Stadium	4500		4		18000		Sachin-Tendulkar-Stand
+
+4	XYZ		RR-vs-SRH	11/05/2021	Arun Jaitley		2000		10		20000		NORTH-EAST-STAND-SECOND-FLOOR
+
+5	Kshitij		PBKS-vs-RCB	09/05/2021	Wankhede Stadium	6500		1		19500		MCA-Stand
+
+6	Sparsh		PBKS-vs-DC	12/05/2021	Wankhede Stadium	5500		7		11000		Vijay-Merchant-Stand
+
+7	qwerty		RR-vs-SRH	11/05/2021	Arun Jaitley		4100		20		82000		NW-STAND-GROUND-FLOOR-PREMIUM
+
+8	SDF		SRH-vs-CSK	06/05/2021	Arun Jaitley		1100		1		1100		West-Stand-Third-Floor-A
+
+9	CS		PBKS-vs-RCB	09/05/2021	Wankhede Stadium	3500		5		17500		Grand-Stand
+
+10	Nishtha		PBKS-vs-RCB	09/05/2021	Wankhede Stadium	6500		5		32500		MCA-Stand
+
+11	RAZER		PBKS-vs-DC	12/05/2021	Wankhede Stadium	3500		2		7000		Grand-Stand
+
+12	zx		CSK-vs-MI	10/05/2021	Arun Jaitley		5200		2		10400		HILL-B-SOUTH-WEST
+
+13	mohit		SRH-vs-CSK	06/05/2021	Arun Jaitley		4100		35		143500		NORTH-WEST-STAND-FIRST-FLOOR
+
+14	mohit		PBKS-vs-RCB	09/06/2022	Wankhede Stadium	5500		5		27500		Vijay-Merchant-Stand
+
+15	guneet		CSK-vs-MI	10/06/2022	Arun Jaitley		5200		15		78000		HILL-B-SOUTH-WEST
+
+
+16	Rachit		PBKS-vs-RCB	09/06/2022	Wankhede Stadium	5000		50		250000		Vitthal-Divecha-Stand
+
+17	Rachit		PBKS-vs-DC	12/06/2022	Wankhede Stadium	6500		49		318500		MCA-Stand
+
+18	aamkash		CSK-vs-MI	10/06/2022	Arun Jaitley		900		2		1800		East-Stand-Second-Floor-A
+
+19	arpit		PBKS-vs-RCB	09/06/2022	Wankhede Stadium	3500		4		14000		Grand-Stand

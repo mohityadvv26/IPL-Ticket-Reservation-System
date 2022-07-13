@@ -1,0 +1,23 @@
+
+
+
+	SNO	    STAND		 PRICE/TICKET(in RS)	    Total no. of Seats
+----------------------------------------------------------------------------------------
+
+	1	North-Stand			2500			4432				
+	
+	2	Sunil-Gavaskar			6000			4877			
+
+	3	Vitthal-Divecha-Stand		5000			5568
+
+	4	MCA-Stand			6500			1578
+
+	5	Grand-Stand			3500			6024
+
+	6	Garware-Stand			4000			4728
+
+	7	Vijay-Merchant-Stand		5500			3914
+
+	8	Sachin-Tendulkar-Stand		4500			5376
+
+

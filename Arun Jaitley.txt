@@ -1,0 +1,39 @@
+
+
+
+	SNo 	    STAND			  PRICE/TICKET(in RS)	
+-------------------------------------------------------------------------	
+
+	1 	East-Stand-Second-Floor-A		900
+
+	2	East-Stand-Second-Floor-B		900
+
+	3	West-Stand-Third-Floor-A		1100
+
+	4	West-Stand-Third-Floor-B		1100
+
+	5	East-Stand-First-Floor-A		1600
+
+	6	East-Stand-First-Floor-B		1600
+
+	7	East-Stand-First-Floor-C		1600
+
+	8	NORTH-EAST-STAND-THIRD-FLOOR		2000
+
+	9	NORTH-EAST-STAND-SECOND-FLOOR		2000
+
+	10	NORTH-WEST-STAND-SECOND-FLOOR		2000
+
+	11	NORTH-WEST-STAND-THIRD-FLOOR		2000
+
+	12	WEST-STAND-GROUND-FLOOR			2400
+
+	13	WEST-STAND-GROUND-FLOOR-PREMIUM		3300
+
+	14	NW-STAND-GROUND-FLOOR-PREMIUM		4100
+
+	15	NORTH-WEST-STAND-FIRST-FLOOR		4100
+
+	16	HILL-B-SOUTH-WEST			5200
+
+
